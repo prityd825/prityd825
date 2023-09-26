@@ -2,8 +2,7 @@
 <h3 align="center">Studies-IT( Software Engineering) || Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prityd825&label=Profile%20views&color=0e75b6&style=flat" alt="prityd825" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prityd825" alt="prityd825" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prityd825" alt="prityd825" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
