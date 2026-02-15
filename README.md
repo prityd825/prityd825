@@ -25,7 +25,8 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prityd825&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prityd825&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prityd825&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
